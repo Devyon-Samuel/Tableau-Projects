@@ -20,3 +20,11 @@ Welcome to my Tableau Projects ;)
 ![image](https://github.com/user-attachments/assets/fdacbbdc-0fbc-4ee9-a14e-230d7b986493)
 
 *As this was my second ever project on Tableau i took a few minutes to go over the original dataset(something i would have benefitted from the first time) in order to get a better picture of what the type of categories and records the Dataset will contain when creating my insights*
+
+![image](https://github.com/user-attachments/assets/5fbf6354-365c-4513-b6fa-e4cf28596639)
+
+*The first insight which i thought would be useful was to start by creating an overview of the national teams all time fixtures to give an early idea of what the basis of the analysis is about to stakeholders. This dashboard shows the exact scores for each individual recorded games, the competition and the exact year* 
+
+![image](https://github.com/user-attachments/assets/31cbdcf9-cc2b-4f4a-a52d-d3263a08f3c9)
+
+*With the use of the first dashboard i was able to delve deeper into the dataset to see which insights i could potentially find. I was able to effectively combine the goal lines in the fxture history, which provided me with a better overview of their alltime goal records. This showed the total amount of goals they have conceded in total and in each individual type of fixture, as you can see they conceded the most goals in the AFCON Qualifiers (26)
