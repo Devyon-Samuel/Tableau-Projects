@@ -31,4 +31,4 @@ Welcome to my Tableau Projects ;)
 
 ![image](https://github.com/user-attachments/assets/1788839f-c803-468c-aebf-0a05daea656b)
 
-*
+*To provide further insight i was able to find out whether the games were home or away fixtures, and total the number of wins/losses/draws in each competition* 
